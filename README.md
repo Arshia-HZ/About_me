@@ -5,7 +5,7 @@
 --------------
 <div align="center"> I have graduated from Atomic Energy highschool.</div><br>
 <div align="center"> At the present I'm studing Computer Engineering at Iran University Of Science and Technology</div>
-<div align="center"><img src="http://limoographic.com/wp-content/uploads/2017/05/ElmosanatUni-logo-LimooGraphic.jpg" alt="IUST picture" width="400" height="300"></div><br>
+<div align="center"><img src="http://limoographic.com/wp-content/uploads/2017/05/ElmosanatUni-logo-LimooGraphic.jpg" alt="IUST picture" width="450" height="300"></div><br>
 
 ## My Hobbies
 --------------
