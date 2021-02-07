@@ -5,6 +5,8 @@
 --------------
 
 <div align="center"> I have graduated from Atomic Energy highschool.</div><br>
+<div align="center"> At the present I'm studing Computer Engeneering at Iran University Of Science and Technology</div><br>
+
 
  
 
