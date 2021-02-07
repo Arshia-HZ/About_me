@@ -24,4 +24,4 @@
 # please follow me by these ways:
 <a href="https://www.instagram.com/arshia_0_0_/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="" width="75" height="75"></a>
 <a href="https://t.me/Arshia_HZ">  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="" width="75" height="75"></a>
-<a href="https://api.whatsapp.com/send?phone=989125088086">  <img src="https://1000merken.com/wp-content/uploads/2020/05/WhatsApp-Logo.png" alt="" width="75" height="75"></a>
+<a href="https://api.whatsapp.com/send?phone=989125088086">  <img src="https://1000merken.com/wp-content/uploads/2020/05/WhatsApp-Logo.png" alt="" width="100" height="75"></a>
