@@ -8,3 +8,9 @@
 <div align="center"><img src="http://limoographic.com/wp-content/uploads/2017/05/ElmosanatUni-logo-LimooGraphic.jpg" alt="IUST picture" width="400" height="300"></div>
 
 --------------
+## My Hobbies
+--------------
++ Music
++ playing Video games
++ watching movies
++ playing soccer and volleyball
