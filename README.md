@@ -13,10 +13,11 @@
 + playing Video games
 + watching movies
 + playing soccer and volleyball
-<div align="center">
+
 ## Skills
 -------------
 + programming with C++, C#
 + working with HDML and CSS
 + playing guitar
-</div>
+
+-------------
